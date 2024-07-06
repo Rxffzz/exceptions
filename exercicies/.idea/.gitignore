@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+<<<<<<< HEAD
+/../../exercicies\.idea/codestream.xml
+=======
+/../../exception2\.idea/codestream.xml
+>>>>>>> fbf224144318a25016c60c520940758c69216fc7
